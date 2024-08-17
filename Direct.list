@@ -35,6 +35,8 @@ DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
 
+# STEAM
+DOMAIN-SUFFIX,steamcontent.com
 
 # 58
 DOMAIN-SUFFIX,58.com
