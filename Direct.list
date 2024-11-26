@@ -332,7 +332,7 @@ DOMAIN-SUFFIX,thundercdn.com
 DOMAIN-SUFFIX,xunlei.com
 
 # MICU EMBY服务器
-DOMAIN-SUFFIX,micu.hk
+
 
 # Public Direct CDN 公共直连
 #DOMAIN-SUFFIX,ajax.aspnetcdn.com
